@@ -1,4 +1,4 @@
 456789# apnacollege-demo
 This is my GIT reopo
 <br>
-Author- Santosh Reddy
+Author- apna college
